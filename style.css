@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.logo-image {
+  height: 90px;
+}
+
+.navbar-padding {
+  padding: 0 30px 0 10px;
+}
+
+.section-one {
+  margin: 20px;
+  background: lightcyan;
+}
+
+.h2-free {
+  color: rgb(255, 115, 80);
+  font-size: 50px;
+  line-height: 0%;
+}
+
+.h2-driving {
+  color: maroon;
+  font-size: 60px;
+  line-height: 0%;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.read-more {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.sec-2-img {
+  width: 100%;
+}
+
+.section-three,
+.section-four,
+.section-five {
+  margin: auto 20px;
+  background: lightcyan;
+}
+
+.section-three img,
+.section-four img,
+.section-five img,
+.card,
+.btn {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+h1 {
+  font-style: italic;
+  padding-top: 80px;
+  font-size: 60px;
+}
+
+.card {
+  min-height: 100px;
+}
+
+.submit{
+  background: white;
+}
+
+.apply{
+  text-align: center;
+  padding: 100px 0 50px 0;
+  font-size: 40px;
+}
+
+.apply-form{
+  background-color: gray;
+  padding: 50px;
+}
